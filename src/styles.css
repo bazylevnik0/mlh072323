@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Canvas {
+  border: 2px solid black;
+}
+
+.Input {
+  -webkit-appearance: slider-vertical;
+  writing-mode: bt-lr;
+  height: 300px;
+}
